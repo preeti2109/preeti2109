@@ -9,7 +9,7 @@ A Passionate aspiring Full Stack Developer skilled in MERN Stack, always ready t
 
 - 🌱 I’m currently learning **MERN Stack, At Masai School**
 
-- 👨‍💻 All of my projects are available at- 📑[Portfolio]()
+- 👨‍💻 All of my projects are available at- 📑[Portfolio](https://github.com/preeti2109/preeti2109.github.io)
 
 - 💬 Ask me about **My Skills**
 
@@ -70,7 +70,7 @@ A Passionate aspiring Full Stack Developer skilled in MERN Stack, always ready t
 <p align="left">
 <a href = "https://www.linkedin.com/in/preeti-gondane-068a79175/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:preetigondane21.09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://github.com/preeti2109/preeti2109.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
 
 </p>
  
